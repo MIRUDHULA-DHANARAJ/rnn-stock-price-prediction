@@ -129,4 +129,3 @@ plt.show()
 
 Thus a Recurrent Neural Network model for stock price prediction is done.
 
-## Result
